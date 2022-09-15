@@ -32,7 +32,7 @@ Bachelor of Business and Commerce from Monash University Malaysia <br />
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 [![icons8-python-48](https://user-images.githubusercontent.com/93008487/190493832-b90cfe58-a881-461e-839d-0c2a5c5265be.png)](https://drive.google.com/drive/folders/1mPIJNyfY_mYQxsAX6MiBqgmo1wfUdNnf?usp=sharing)
@@ -43,7 +43,7 @@ Bachelor of Business and Commerce from Monash University Malaysia <br />
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 [![icons8-registered-trademark-40](https://user-images.githubusercontent.com/93008487/190495145-5ac60b59-8ee5-48af-9ca7-5b15d4a0168b.png)](https://drive.google.com/drive/folders/1SygSxp8NSuH5E-03VzTa0U21nawwSBmt?usp=sharing)
 
@@ -53,7 +53,7 @@ Bachelor of Business and Commerce from Monash University Malaysia <br />
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 [![icons8-registered-trademark-40](https://user-images.githubusercontent.com/93008487/190495145-5ac60b59-8ee5-48af-9ca7-5b15d4a0168b.png)]([https://drive.google.com/drive/folders/1SygSxp8NSuH5E-03VzTa0U21nawwSBmt?usp=sharing](https://drive.google.com/drive/folders/1I27pGlfEUJsxsVfXYtvUA-I1dftNonh1?usp=sharing))
 
@@ -63,7 +63,7 @@ Bachelor of Business and Commerce from Monash University Malaysia <br />
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 [![R](https://user-images.githubusercontent.com/93008487/190499026-3b70cb87-21b6-487f-9091-76c53161188b.png)](https://drive.google.com/drive/folders/1TFjjjHHTUru6AluMFRloRjjGsqELLdS5?usp=sharing)
 
@@ -73,7 +73,7 @@ Bachelor of Business and Commerce from Monash University Malaysia <br />
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 [![icons8-registered-trademark-40](https://user-images.githubusercontent.com/93008487/190495145-5ac60b59-8ee5-48af-9ca7-5b15d4a0168b.png)](https://drive.google.com/drive/folders/1TFjjjHHTUru6AluMFRloRjjGsqELLdS5?usp=sharing)
 
@@ -83,7 +83,7 @@ Bachelor of Business and Commerce from Monash University Malaysia <br />
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 [![icons8-registered-trademark-40](https://user-images.githubusercontent.com/93008487/190495145-5ac60b59-8ee5-48af-9ca7-5b15d4a0168b.png)](https://drive.google.com/drive/folders/1VCIDcv4fkx54oOtqrtnAf5wka4XvjpXq?usp=sharing)
 
@@ -93,7 +93,7 @@ Bachelor of Business and Commerce from Monash University Malaysia <br />
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 [![icons8-registered-trademark-40](https://user-images.githubusercontent.com/93008487/190495145-5ac60b59-8ee5-48af-9ca7-5b15d4a0168b.png)](https://drive.google.com/drive/folders/1f4ufjWJfSHyFt5K5PoCSt2i9-QL9LSF-?usp=sharing)
 
@@ -109,15 +109,32 @@ The project has been reported in R Markdown*
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 [![icons8-power-bi-64](https://user-images.githubusercontent.com/93008487/190502325-5b722f20-6d5e-4522-bbb2-1bbe29c4e584.png)](https://drive.google.com/drive/folders/1CSkwR3TTq9KrbAu35fYMd_WPuY0TXocd?usp=sharing)
 
 #### Project 10. Dashboard Visualization in Power BI <BR />
 *Use Power BI to clean a customer service data in California. Visualize the data on an interactive dashboard.* 
+<br/>
+<br/>
+<br/>
+<br/>
 
 
+[![icons8-power-bi-64](https://user-images.githubusercontent.com/93008487/190502325-5b722f20-6d5e-4522-bbb2-1bbe29c4e584.png)](https://drive.google.com/drive/folders/1ZLS3AS26__z3TUtRhFUMoVhM4FSlNlw_?usp=sharing)
 
+#### Project 11. Vehicle Price in Sri Lanka - Data Visualization Using Google Data Studio <BR />
+*Use Google Data Studio to clean a vehicle price data in Sri Lanka. Visualize the data on an interactive dashboard.*
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+[![icons8-registered-trademark-40](https://user-images.githubusercontent.com/93008487/190495145-5ac60b59-8ee5-48af-9ca7-5b15d4a0168b.png)](https://drive.google.com/drive/folders/1XrVoeG7CVfAojydT2fqgQNhU0PiKQtZG?usp=sharing)
+
+#### Project 12. Dealing With Missing Data Using Decision Tree and Naive Bayes in R <BR />
+*Use Decision Tree and Naïve Bayes to predictive missing data in 4 columns of a data set about customer information. The project has been done in R.*
 
 
 
