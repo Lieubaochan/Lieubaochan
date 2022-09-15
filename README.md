@@ -1,6 +1,6 @@
 # My Profile
 
-[![forthebadge](file:///C:/Users/Lieu%20Bao%20Chan/Downloads/inspired-by-ptspnv.svg)](http://forthebadge.com)
+[![forthebadge](https://drive.google.com/file/d/1Oi_RLa0pfB4jf_9SMjkWVaZx_fCpdSsV/view?usp=sharing)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 
