@@ -23,7 +23,7 @@ Bachelor of Business and Commerce from Monash University Malaysia <br />
 
 ### Personal Projects 
 
-Project 1. Market Research Dashboard on Google Sheet <BR />
+#### Project 1. Market Research Dashboard on Google Sheet <BR />
 *Use Google Sheet to merge various data sheets together, reshape the data from wide format to long format, visualize the data on a dashboard.*
 
 [![icons8-google-sheets-48](https://user-images.githubusercontent.com/93008487/190491147-9ca1bec3-5f69-4e58-87a4-4f6c2a98efe6.png)](https://drive.google.com/drive/folders/1VpkT7wEl68jPPm1L6jVxnqYjqQIsSlFX?usp=sharing) 
