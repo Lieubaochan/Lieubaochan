@@ -1,6 +1,6 @@
 # Color LS
 
-[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
+[![forthebadge](https://drive.google.com/file/d/1B-65wgxQOjz_s1WKVTgMsAk5_Pld7-bw/view?usp=sharing)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 [![Gem Version](https://badge.fury.io/rb/colorls.svg)](https://badge.fury.io/rb/colorls)
