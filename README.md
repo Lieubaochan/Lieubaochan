@@ -64,8 +64,8 @@ Bachelor of Business and Commerce from Monash University Malaysia <br />
 <br/>
 <br/>
 
+<a href="https://drive.google.com/drive/folders/1TFjjjHHTUru6AluMFRloRjjGsqELLdS5?usp=sharing"><img src="https://user-images.githubusercontent.com/93008487/190499026-3b70cb87-21b6-487f-9091-76c53161188b.png" width="45"  height = "45"></a>
 
-[![R](https://user-images.githubusercontent.com/93008487/190499026-3b70cb87-21b6-487f-9091-76c53161188b.png)](https://drive.google.com/drive/folders/1TFjjjHHTUru6AluMFRloRjjGsqELLdS5?usp=sharing)
 
 #### Project 5. Strategic Panel Data Modeling Using Pooled OLS, REM and FEM in STATA <BR />
 *Use the World Bank survey data of innovation in 2017 to create (1) Pool OLS (2) Random Effect (3) Fixed Effect Models. Conduct hypothesis testing to identify the most appropriate model. Steps of data import, data cleaning and transformation have been done fully in STATA and are available in the file.*
@@ -111,7 +111,7 @@ The project has been reported in R Markdown*
 <br/>
 
 
-[![icons8-power-bi-64](https://user-images.githubusercontent.com/93008487/190502325-5b722f20-6d5e-4522-bbb2-1bbe29c4e584.png)](https://drive.google.com/drive/folders/1CSkwR3TTq9KrbAu35fYMd_WPuY0TXocd?usp=sharing)
+<a href ="https://drive.google.com/drive/folders/1CSkwR3TTq9KrbAu35fYMd_WPuY0TXocd?usp=sharing"><img src = "https://user-images.githubusercontent.com/93008487/190502325-5b722f20-6d5e-4522-bbb2-1bbe29c4e584.png" width = "45" height = "45"></a>
 
 #### Project 10. Dashboard Visualization in Power BI <BR />
 *Use Power BI to clean a customer service data in California. Visualize the data on an interactive dashboard.* 
@@ -121,7 +121,7 @@ The project has been reported in R Markdown*
 <br/>
 
 
-[![icons8-power-bi-64](https://user-images.githubusercontent.com/93008487/190502325-5b722f20-6d5e-4522-bbb2-1bbe29c4e584.png)](https://drive.google.com/drive/folders/1ZLS3AS26__z3TUtRhFUMoVhM4FSlNlw_?usp=sharing)
+<a href = "https://drive.google.com/drive/folders/1ZLS3AS26__z3TUtRhFUMoVhM4FSlNlw_?usp=sharing"><img src = "https://user-images.githubusercontent.com/93008487/190502325-5b722f20-6d5e-4522-bbb2-1bbe29c4e584.png" width = "45" height = "45"></a>
 
 #### Project 11. Vehicle Price in Sri Lanka - Data Visualization Using Google Data Studio <BR />
 *Use Google Data Studio to clean a vehicle price data in Sri Lanka. Visualize the data on an interactive dashboard.*
@@ -129,7 +129,6 @@ The project has been reported in R Markdown*
 <br/>
 <br/>
 <br/>
-
 
 [![icons8-registered-trademark-40](https://user-images.githubusercontent.com/93008487/190495145-5ac60b59-8ee5-48af-9ca7-5b15d4a0168b.png)](https://drive.google.com/drive/folders/1XrVoeG7CVfAojydT2fqgQNhU0PiKQtZG?usp=sharing)
 
